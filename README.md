@@ -1,1 +1,1 @@
-# leetCode-Solutions language used: python3
+# leetCode-Solutions
